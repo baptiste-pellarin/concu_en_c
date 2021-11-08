@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "my_sem.h"
+#include "../my_sem.h"
 
 #define clef 1234
 
